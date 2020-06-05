@@ -1,0 +1,7 @@
+# sphinx builds
+_*
+*.html
+
+# vim temp files
+.*.swp
+*~
